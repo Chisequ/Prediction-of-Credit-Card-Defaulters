@@ -9,3 +9,5 @@ The jupyter notebook attached to this repo contains
  
  The aim of the hackathon was to predict the number of people who will
   default in credit card loans.
+
+Leaderboard Score: 0.8404514334805
